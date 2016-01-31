@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T13:51:08.680Z'
-dateModified: '2016-01-31T13:50:30.959Z'
+datePublished: '2016-01-31T14:03:00.382Z'
+dateModified: '2016-01-31T14:02:58.204Z'
 title: Schilderen á la Kandinsky.
 author: []
+sourcePath: _posts/2016-01-31-schilderen-a-la-kandinsky.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-schilderen-a-la-kandinsky.md
-published: true
 url: schilderen-a-la-kandinsky/index.html
 _type: WebPage
 
@@ -37,4 +37,4 @@ We werken met ecoline, permanent markers, kleurpotloden op aquarelpapier.
 Dagworkshop van 5 uur.
 
 Kosten: 45 euro p.p. incl. alle materialen.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5c7dfc6-1479-4cd1-989d-12c304c12f18.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/db15d49968a28a58e3e4ee761576223607cb487b.jpg)
