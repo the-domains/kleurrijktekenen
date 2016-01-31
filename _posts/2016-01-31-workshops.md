@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T13:46:35.274Z'
+datePublished: '2016-01-31T13:46:35.340Z'
 dateModified: '2016-01-31T13:46:31.925Z'
 title: Tekenen in de stijl van Hundertwasser
 author: []
