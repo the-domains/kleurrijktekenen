@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T14:04:11.765Z'
+datePublished: '2016-01-31T14:04:11.759Z'
 dateModified: '2016-01-31T14:04:09.763Z'
 title: Op zoek naar Harmonie met Mondriaan.
 author: []
