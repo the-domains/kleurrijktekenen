@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T14:04:11.759Z'
-dateModified: '2016-01-31T14:04:09.763Z'
+datePublished: '2016-01-31T14:11:13.207Z'
+dateModified: '2016-01-31T14:10:11.544Z'
 title: Op zoek naar Harmonie met Mondriaan.
 author: []
 sourcePath: _posts/2016-01-31-op-zoek-naar-harmonie-met-mondriaan.md
@@ -35,4 +35,3 @@ We werken met markers en ecoline op mooi papier.
 Workshop van 3 uur.
 
 Kosten: 35 euro p.p incl. alle materialen.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/994256a76ee7fa6e24adfc4499d2709e7e32e389.jpg)
