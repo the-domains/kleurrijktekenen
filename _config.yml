@@ -1,7 +1,7 @@
 name: Kleurrijktekenen
 favicon: null
 layout_spectrum: 0.8147511903662235
-typography_spectrum: 0.9533831316512078
+typography_spectrum: 0.29731
 title: Kleurrijk tekenen
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3392ca'
-    - '#8a2b27'
-    - '#c1a483'
-    - '#d86e2e'
-    - '#0549a2'
-  brandStrength: 0.125
-  lightness: 0.24177293316461146
-  saturation: 0.7245749435387552
-  rhythmicContrast: 0.018049792619422078
+    - '#131117'
+    - '#ced2d7'
+    - '#a7a7a8'
+    - '#3e3b3c'
+    - '#666462'
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
