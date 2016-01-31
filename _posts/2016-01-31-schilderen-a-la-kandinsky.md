@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T14:09:59.623Z'
+datePublished: '2016-01-31T14:09:59.628Z'
 dateModified: '2016-01-31T14:09:57.085Z'
 title: Schilderen á la Kandinsky.
 author: []
