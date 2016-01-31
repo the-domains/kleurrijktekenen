@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T13:46:35.425Z'
-dateModified: '2016-01-31T13:46:31.925Z'
+datePublished: '2016-01-31T14:11:06.703Z'
+dateModified: '2016-01-31T14:10:34.413Z'
 title: Tekenen in de stijl van Hundertwasser
 author: []
 sourcePath: _posts/2016-01-31-workshops.md
@@ -55,6 +55,5 @@ uur.
 
 Kosten: 45 euro
 p.p. incl. alle materialen.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5df6a9a4-43e0-4729-8586-972cad8d709f.jpg)
 
 ****
