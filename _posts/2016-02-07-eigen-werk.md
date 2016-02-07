@@ -6,27 +6,27 @@ inLanguage: null
 starred: false
 keywords: []
 description: Voorbeelden van eigen werk in de stijl van de aangeboden workshops en cursussen
-datePublished: '2016-02-07T00:01:58.811Z'
-dateModified: '2016-02-07T00:01:42.737Z'
+datePublished: '2016-02-07T00:03:57.896Z'
+dateModified: '2016-02-07T00:03:55.232Z'
 title: Eigen Werk
 author: []
+sourcePath: _posts/2016-02-07-eigen-werk.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-eigen-werk.md
-published: true
 url: eigen-werk/index.html
 _type: WebPage
 
 ---
 Kandinsky
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b12e44f-0438-4ace-9e25-af7ab4757860.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a6525f82800e82ec15aaac1db96625f6ccc11e4.jpg)
 
 Hundertwasser
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f39bb9-2741-44d1-bb3b-30b621608835.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fd499b0ad1da3a98aac73f0bd138de2c664125e.jpg)
 
 Mondriaan
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3212d15b-8174-43f9-9d0c-dc2c6e31d014.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/acb67e8432911f8400b91cabe88af9df62971c60.jpg)
