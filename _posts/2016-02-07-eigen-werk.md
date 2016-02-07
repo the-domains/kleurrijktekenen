@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Voorbeelden van eigen werk in de stijl van de aangeboden workshops en cursussen
-datePublished: '2016-02-07T00:06:03.313Z'
-dateModified: '2016-02-07T00:06:00.248Z'
+datePublished: '2016-02-07T00:12:46.733Z'
+dateModified: '2016-02-07T00:12:44.942Z'
 title: Eigen Werk
 author: []
 sourcePath: _posts/2016-02-07-eigen-werk.md
@@ -29,4 +29,4 @@ Hundertwasser
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fd499b0ad1da3a98aac73f0bd138de2c664125e.jpg)
 
 Mondriaan
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/acb67e8432911f8400b91cabe88af9df62971c60.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a68f809c4e44806cfb7eca7a6c0d6e389f10984.jpg)
