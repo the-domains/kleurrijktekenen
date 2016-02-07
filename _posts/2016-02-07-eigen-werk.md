@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Voorbeelden van eigen werk in de stijl van de aangeboden workshops en cursussen
-datePublished: '2016-02-07T00:03:57.896Z'
-dateModified: '2016-02-07T00:03:55.232Z'
+datePublished: '2016-02-07T00:06:03.313Z'
+dateModified: '2016-02-07T00:06:00.248Z'
 title: Eigen Werk
 author: []
 sourcePath: _posts/2016-02-07-eigen-werk.md
